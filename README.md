@@ -1,4 +1,7 @@
-#안녕하세요! 반갑습니다
+#Hi! Nice to meet you!
+---
+Student of big data
+
 ---
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
@@ -6,10 +9,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently stduying on 한국폴리텍대학 빅데이터과
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently stduying on BIGDATA
+- - 🌱 I’m currently learning ... JAVA,HTML5,C++,Python
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...

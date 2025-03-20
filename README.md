@@ -1,4 +1,4 @@
-Hi! Nice to meet you!
+#코딩 입문자 김동휘
 ---
 Student of big data
 

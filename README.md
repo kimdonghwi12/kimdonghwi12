@@ -2,7 +2,7 @@
 ---
 # 한국폴리텍대학 강서캠퍼스 빅데이터과 재학중
 ---
-(github-readme-stats.vercel.app/api?username=kimdonghwi12&show_icons=true&theme=dark)
+![My github](github-readme-stats.vercel.app/api?username=kimdonghwi12&show_icons=true&theme=dark)
 #무엇을 공부하는가?  
 1.JAVA  
 2.HTML5  
